@@ -1,5 +1,5 @@
 # Test-Assignment-Mindbox
-В ответ на Задание 2 я разработал три таблицы, код создания которых находится в отдельном [файле](https://github.com/betellione/Test-Assignment-Mindbox/Task2DbCreation.sql). SQL-скрипт для выполнения Задания 2, включающий запрос всех пар "Имя продукта – Имя категории" из базы данных MS SQL Server, предоставлен в [этом](https://github.com/betellione/Test-Assignment-Mindbox/Task2.sql) файле. Детали для Задания 1 описаны в ниже.
+В ответ на Задание 2 я разработал три таблицы, код создания которых находится в отдельном [файле](https://github.com/betellione/Test-Assignment-Mindbox/blob/main/Task2DbCreation.sql). SQL-скрипт для выполнения Задания 2, включающий запрос всех пар "Имя продукта – Имя категории" из базы данных MS SQL Server, предоставлен в [этом](https://github.com/betellione/Test-Assignment-Mindbox/blob/main/Task2.sql) файле. Детали для Задания 1 описаны в ниже.
 Задание 1 расписано тут
 # Shapes Library
 
@@ -21,7 +21,7 @@
 1. Клонировать репозиторий: `git clone https://github.com/betellione/Test-Assignment-Mindbox.git`
 2. Перейти в каталог проекта: `cd ShapesLibrary`
 ### 2 Путь:
-Зайти на [сайт](https://www.nuget.org/packages/ShapesLibForMindBox/1.0.0) и следовать инструкции по установке
+Зайти на [сайт](https://www.nuget.org/packages/ShapesLibForMindBox/1.0.0) NuGet  и следовать инструкции по установке
 ## Использование
 Для использования библиотеки `ShapesLibrary` в другом проекте, вам нужно добавить ссылку на эту библиотеку. Вот как это сделать:
 
@@ -71,7 +71,7 @@ Console.WriteLine($"Площадь треугольника: {area}");
 ```
 
 ## Тестирование
-В проекте есть тестирование
+В проекте внедрено модульное тестирование, и тесты покрываю 100% кода библиотеки. Так же в планах написать Unit тесты для Unit тестов.
 
 ## Вклад
 Приветствуются вклады! Если у вас есть идеи для улучшений или вы обнаружили какие-либо проблемы, пожалуйста, создайте [issue](https://github.com/betellione/Test-Assignment-Mindbox/issues) или предложите [pull request](https://github.com/betellione/Test-Assignment-Mindbox/pulls).

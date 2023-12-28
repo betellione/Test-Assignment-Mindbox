@@ -1,6 +1,6 @@
 namespace Shapes.Test;
 
-public class UnitTests
+public class CommonTests
 {
     [Fact]
     public void TestUnknownShape()

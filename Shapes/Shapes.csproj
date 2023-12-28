@@ -1,9 +1,19 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <TargetFramework>net8.0</TargetFramework>
     </PropertyGroup>
-
+    <PropertyGroup>
+        <PackageId>ShapesLibForMindBox</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Betellione</Authors>
+        <Company>Self</Company>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+    <ItemGroup>
+        <None Include="../README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
 </Project>

@@ -2,7 +2,6 @@ namespace Shapes.Test;
 
 public class UnitTests
 {
-
     [Fact]
     public void TestUnknownShape()
     {

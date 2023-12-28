@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\timur\AppData\Local\JetBrains\Rider2023.2\resharper-host\temp\Rider\vAny\CoverageData\_Shapes.-1246272979\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=254ab566_002De552_002D4a11_002D88d5_002Deef886937eda/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCircleArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc392645_002D25ea_002D497e_002Db948_002D2b28e600bd46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCircleArea #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestCircleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestRightTriangle&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf36d4b6_002Df4ad_002D471e_002Db03d_002D02b99a62214b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCircleArea #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestCircleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestTriangleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestRightTriangle&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=df3215ac_002D47a1_002D4ced_002Dbf69_002De456d219f3d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCircleArea #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestCircleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestTriangleArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C9970478-DDD6-460D-B03D-247552A33CE8::net8.0::Shapes.Test.UnitTest1.TestRightTriangle&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -12,6 +12,9 @@
         <Company>Self</Company>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/betellione/Test-Assignment-Mindbox.git</RepositoryUrl>
+        <PackageReleaseNotes>For test assignment</PackageReleaseNotes>
+        <PackageTags>Test</PackageTags>
     </PropertyGroup>
     <ItemGroup>
         <None Include="../README.md" Pack="true" PackagePath="\"/>
